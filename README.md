@@ -6,7 +6,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oVFp5Xtlx_RRpZYwK8OXXY8yVDW9SM-R/view?usp=sharing](https://drive.google.com/file/d/1oVFp5Xtlx_RRpZYwK8OXXY8yVDW9SM-R/view?usp=sharing)
 
-- 📫 How to reach me **dillirajan.sankar@rutgers.edu**
+- 📫 How to reach me **dillirajan.sankar.us@gmail.com**
 
 - ⚡ Fun fact **I geek out on smartphone/tablet tech.**
 
