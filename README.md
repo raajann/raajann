@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm (Rajan) Dillirajan Sankar</h1>
-<h3 align="center">I'm an aspiring data enthusiast, passionate about using data to drive insights and inform decision making. I'm currently seeking internship positions as a data analyst/data scientist.</h3>
+<h3 align="center">I'm an aspiring data enthusiast, passionate about using data to drive insights and inform decision making. I'm currently seeking full-time positions as a data analyst/business analyst/data scientist.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raajann&label=Profile%20views&color=0e75b6&style=flat" alt="raajann" /> </p>
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1PHcFonLLRNkp-7gn2RkWFODrm5UJLRIr/view?usp=sharing
+- 📄 Know about my experiences https://rb.gy/9usxg
 
 - 📫 How to reach me **dillirajan.sankar.us@gmail.com**
 
