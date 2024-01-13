@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raajann&label=Profile%20views&color=0e75b6&style=flat" alt="raajann" /> </p>
 
-- 📄 Know about my experiences https://tinyurl.com/raajan96
+- 📄 Know about my experiences http://tinyurl.com/raaajan
 
 - 📫 How to reach me **dillirajan.sankar.us@gmail.com**
 
